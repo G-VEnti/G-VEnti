@@ -5,7 +5,7 @@ I like this game a lot :D
 ![gif hollow knight](./3b1d728547e5f98020ef77b0f9be252b.gif)
 
 
-
+I'm trying to modify this readme a couple times, hope you don't see this :)
 
 <!--
 **G-VEnti/G-VEnti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
