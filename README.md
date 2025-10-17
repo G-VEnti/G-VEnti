@@ -1,8 +1,10 @@
 # Welcome to G-Venti
 
-M'agrada bastant aquest joc :D
+I like this game a lot :D
 
 ![gif hollow knight](./3b1d728547e5f98020ef77b0f9be252b.gif)
+
+
 
 
 <!--
